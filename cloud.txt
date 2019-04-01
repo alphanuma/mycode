@@ -1,0 +1,5 @@
+pcscf 10.0.0.5 firewall
+scfcs 10.0.0.6 serving
+icscf 10.0.0.7 lookup
+tas 10.0.0.8 features
+scg 10.0.0.9 breakout
