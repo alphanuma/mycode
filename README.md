@@ -1,5 +1,5 @@
 # mycode
-Learning to track my code
+Wanting to learn how to version control projects with git.
 
 ##Built With
 
