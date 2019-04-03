@@ -1,0 +1,10 @@
+15:01:10 up 9 days/home/bender
+Filesystem      Size  Used Avail Use% Mounted on
+overlay          39G  6.9G   32G  18% /
+tmpfs            64M     0   64M   0% /dev
+tmpfs           4.3G     0  4.3G   0% /sys/fs/cgroup
+/dev/vda1        39G  6.9G   32G  18% /etc/hosts
+shm              64M     0   64M   0% /dev/shm
+tmpfs           4.3G     0  4.3G   0% /proc/acpi
+tmpfs           4.3G     0  4.3G   0% /proc/scsi
+tmpfs           4.3G     0  4.3G   0% /sys/firmware
